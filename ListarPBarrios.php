@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Mi Página</title>
-  <h1> Los Valverdes 7  </h1>
+  <h1> Los Valverdes 71  </h1>
   <link rel="stylesheet" href="./estilos/PHPTabla.css">  
 </head>
 <body>
